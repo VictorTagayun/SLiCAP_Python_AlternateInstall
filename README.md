@@ -11,7 +11,7 @@ SLiCAP is **open source** and can be viewed fom https://www.analog-electronics.e
 
 ## Setting up SLiCAP
 To set up SLiCAP, the following components are required:
-- (Step 3) A Python 3 (portable) install -  Dependencies of packages is found in requirements.txt
+- (Steps 3 - 5) A Python 3 (portable) install -  Dependencies of packages is found in requirements.txt
 - (Step 2) Maxima CAS
 - (Step 1) SLiCAP can generate netlists from schematics made with:
   - LTspice
