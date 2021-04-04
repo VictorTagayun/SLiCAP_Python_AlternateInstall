@@ -75,6 +75,8 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 4. Run and display the plot
 
 
-You can go to [Simulation Result/s](https://victortagayun.github.io/SLiCAP_Python_AlternateInstall/) to see some results
+## Simulation Results
+
+- You can go to [Simulation Result/s](https://victortagayun.github.io/SLiCAP_Python_AlternateInstall/) to see some results
 
 [Disclaimer](https://github.com/VictorTagayun/GlobalDisclaimer)
