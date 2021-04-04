@@ -1,4 +1,4 @@
-# 2nd Option to install SLiCAP for Python using Python Portable
+# Alternate Option to install SLiCAP for Python using Python Portable
 
 SLiCAP is **open source** and can be viewed fom https://www.analog-electronics.eu/slicap/slicap.html
 
@@ -37,8 +37,8 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 ### Step 3 - Download SLiCAP
 
-1. Download SLiCAP from github https://github.com/VictorTagayun/SLiCAP_Python_2ndOptionInstall and click the download button
-![]()
+1. Download SLiCAP from github https://github.com/VictorTagayun/SLiCAP_Python_2ndOptionInstall and click the download button  
+![download](https://github.com/VictorTagayun/SLiCAP_Python_AlternateInstall/blob/main/images/download.png)  
 2. Unzip to your preferred location and preferrable rename the unzippped folder from _SLiCAP_python-master_ to **SLiCAP_python**
 
 
@@ -46,7 +46,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 1. Go to https://winpython.github.io/
 2. Download your preferred version but include the version with **Spyder**, i.e. WinPython64-3.9.2.0, WinPython64-3.9.2.0cod or WinPython64-3.8.8.0
-3. Right click and unzip the exe file
+3. After download, right click and choose unzip, unzip the exe file.
 
 
 ### Step 5 - Instal SliCAP
@@ -57,7 +57,9 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 4. In the command prompt, go to the folder where SLiCAP is located, you may need to issue a comand **"cd <SLiCAP folder>"**.
 5. Run  
 
+	```
 	python setup.py install --user  
+	```
 	
 6. When asked for the location of **Maxima CAS**, type _"C:\maxima-5.44.0\bin\maxima.bat"_.
 7. It should find LTSpice after, just press enter to accept the default answer.
