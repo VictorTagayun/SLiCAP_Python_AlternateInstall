@@ -75,6 +75,11 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 4. Run and display the plot
 
 
+### Setup LTSpice
+
+- Go to https://www.analog-electronics.eu/slicap/SLiCAP_python/docs/html/userguide/install.html#ltspice to setup LTSpice for SliCAP
+
+
 ## Simulation Results
 
 - You can go to [Simulation Result/s](https://victortagayun.github.io/SLiCAP_Python_AlternateInstall/) to see some results
