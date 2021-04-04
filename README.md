@@ -39,7 +39,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 1. Download SLiCAP from github https://github.com/Lenty/SLiCAP_python and click the download button  
 ![download](https://github.com/VictorTagayun/SLiCAP_Python_AlternateInstall/blob/main/images/download.png)  
-2. Unzip to your preferred location and preferrable rename the unzippped folder from _SLiCAP_python-master_ to **SLiCAP_python**
+2. Unzip to your preferred location and preferrably rename the unzippped folder from _SLiCAP_python-master_ to **SLiCAP_python**
 
 
 ### Step 4 - Download Python Portable
@@ -54,7 +54,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 1. Before you install **SliCAP**, download **_in_place_** module first
 2. Go to https://raw.githubusercontent.com/jwodder/inplace/master/src/in_place.py , right click the "In-place file processing" and choose "Save as". Save the file inside SLiCAP_python folder where **"setup.py"** is located, it should be inside "SLiCAP_python". Make sure **"setup.py"** and **"in_place.py"** are in the same folder. Make sure the file is not **"in_place.py.txt"**, if so, just rename to **"in_place.py"**.
 3. In your PC, go to where the Python portable is located **"..\Winpython64-3.9.2.0cod\WPy64-3920"**. Run **"WinPython Command Prompt.exe"**, a commmand prompt will show.
-4. In the command prompt, go to the folder where "SLiCAP_python" is located, you may need to issue a comand **"cd"** to change to that directory.
+4. In the command prompt, go to the folder where "SLiCAP_python" is located, you may need to issue a comand **"cd -directory of SLiCAP_python-"** to change to that directory.
 5. Run this command  
 
 	```
@@ -64,7 +64,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 6. When asked for the location of **Maxima CAS** bat file, type _"C:\maxima-5.44.0\bin\maxima.bat"_.
 7. It should find LTSpice after, just press enter to accept the default answer.
 8. It will ask you for the location of SliCAP install folder, you may press enter for the default location.
-9. By this time, SLiCAP should be already installed in **"C:\Users\\<user name>\SLiCAP"**.
+9. By this time, SLiCAP should be already installed in **"C:\Users\-user name-\SLiCAP"**.
 10. You may now exit this command prompt by typing **"exit"**.
 
 
