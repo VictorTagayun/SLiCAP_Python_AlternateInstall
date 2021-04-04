@@ -52,7 +52,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 ### Step 5 - Instal SliCAP
 
 1. Before you install **SliCAP**, download **_in_place_** module first
-2. Go to https://raw.githubusercontent.com/jwodder/inplace/master/src/in_place.py and save the file inside SLiCAP_python folder where **"setup.py"** is located, it should be inside "SLiCAP_python". Make sure **"setup.py"** and **"in_place.py"** are in the same folder. Make sure the file is not **"in_place.py.txt"**, if so, just rename to **"in_place.py"**.
+2. Go to https://raw.githubusercontent.com/jwodder/inplace/master/src/in_place.py , right click the "In-place file processing" and choose "Save as". Save the file inside SLiCAP_python folder where **"setup.py"** is located, it should be inside "SLiCAP_python". Make sure **"setup.py"** and **"in_place.py"** are in the same folder. Make sure the file is not **"in_place.py.txt"**, if so, just rename to **"in_place.py"**.
 3. In your PC, go to where the Python portable is located **"..\Winpython64-3.9.2.0cod\WPy64-3920"**. Run **"WinPython Command Prompt.exe"**, a commmand prompt will show.
 4. In the command prompt, go to the folder where "SLiCAP_python" is located, you may need to issue a comand **"cd"** to change to that directory.
 5. Run this command  
