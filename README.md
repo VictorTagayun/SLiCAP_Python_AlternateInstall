@@ -64,7 +64,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 6. When asked for the location of **Maxima CAS** bat file, type _"C:\maxima-5.44.0\bin\maxima.bat"_.
 7. It should find LTSpice after, just press enter to accept the default answer.
 8. It will ask you for the location of SliCAP install folder, you may press enter for the default location.
-9. By this time, SLiCAP should be already installed in **"C:\Users\(user name)\SLiCAP"**.
+9. By this time, SLiCAP should be already installed in _"C:\Users\(user name)\SLiCAP"_.
 10. You may now exit this command prompt by typing **"exit"**.
 
 
@@ -72,7 +72,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 1. In your PC, go to where the Python is located, **"..\Winpython64-3.9.2.0cod\WPy64-3920"**.
 2. Run **"Spyder.exe"**.
-3. Locate where the examples are **"C:\Users\(username)\SLiCAP\examples"**.
+3. Locate where the examples are _"C:\Users\(username)\SLiCAP\examples"_.
 4. Run and display the plot
 
 
