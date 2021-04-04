@@ -24,7 +24,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 ### Step 1 - Download and Install LTspice
 
-Go to https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html and install LTSpice
+- Go to https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html and install LTSpice
 
 
 ### Step 2 - Download and Install Maxima CAS
