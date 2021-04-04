@@ -29,9 +29,8 @@ Go to https://www.analog.com/en/design-center/design-tools-and-calculators/ltspi
 
 ### Step 2 - Download and Install Maxima CAS
 
-Go to https://sourceforge.net/projects/maxima/files/Maxima-Windows/  
+1. Go to https://sourceforge.net/projects/maxima/files/Maxima-Windows/  
+2. Choose "5.44.0-Windows"  
+3. Install, by default it will be **C:\maxima-5.44.0**
 
-Choose "5.44.0-Windows"
-
-Install, by default it will be **C:\maxima-5.44.0**
 
