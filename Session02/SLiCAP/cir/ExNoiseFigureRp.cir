@@ -1,9 +1,0 @@
-"ExNoiseFigureRp"
-* Z:\mnt\DATA\Cursussen\Courses\ASMPT\Session-2\SLiCAP\cir\ExNoiseFigureRp.asc
-V1 N001 0 V value=0 dc=0 dcvar=0 noise={4*k*T*R_s}
-R1 out N001 {R_s}
-R2 out 0 {R_p}
-I1 out 0 I value=0 dc=0 dcvar=0 noise={4*k*T/R_p}
-.param R_s=600 R_p=1k
-.backanno
-.end
