@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+  
+<head>
+    <style>
+        .asm {
+            margin: 3%;
+            position: relative;
+        }
+  
+        .first-txt {
+            position: absolute;
+			top: 1%;
+			left: 55%;
+        }
+    </style>
+</head>
+  
+<body>
+    <div class="asm">
+        <img src = "https://dxrdcjsaxl4bf.cloudfront.net/assets/files/15408/1asm_pt_logo_block.png" style="border:5px solid black" width = "500"  />
+        <h7 class="first-txt">
+            victortagayun.github.io
+        </h7>
+    </div>
+	<h4> Not in any particular order: </h4>
+	<p>Leong</p>
+	<p>Yee Py</p>
+	<p>Victor</p>
+	<p>Das</p>
+	<p>Baskaran</p>
+	<p>Greggy</p>
+	<p>Dinesh</p>
+</body>
+  
+</html>
