@@ -31,8 +31,8 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 ### Step 2 - Download and Install Maxima CAS
 
 1. Go to https://sourceforge.net/projects/maxima/files/Maxima-Windows/  
-2. Choose **"5.44.0-Windows"**
-3. Install, by default it will be at **"C:\maxima-5.44.0"**
+2. Choose the latest version, at of this writing it is **"5.46.0-Windows"**
+3. Install, by default it will be at **"C:\maxima-5.46.0"**
 
 
 ### Step 3 - Download SLiCAP
@@ -42,10 +42,10 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 2. Unzip to your preferred location and preferrably rename the unzippped folder from _SLiCAP_python-master_ to **SLiCAP_python**
 
 
-### Step 4 - Download Python Portable
+### Step 4 - Download Winpython, a Python portable
 
 1. Go to https://winpython.github.io/
-2. Download your preferred version but include the version with **Spyder**, i.e. **WinPython64-3.9.2.0, WinPython64-3.9.2.0cod or WinPython64-3.8.8.0**.
+2. Download your preferred version but include the version with **Spyder**, i.e. **WinPython64-3.10.5.0, WinPython64-3.9.2.0, WinPython64-3.9.2.0cod or WinPython64-3.8.8.0**.
 3. After download, right click the exe file and choose unzip.
 
 
