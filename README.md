@@ -1,4 +1,4 @@
-# Alternate Option to install SLiCAP for Python using Python Portable
+# Alternate Option to install SLiCAP for Python using WinPython. a portable Python
 
 SLiCAP is **open source** and can be viewed fom https://www.analog-electronics.eu/slicap/slicap.html
 
