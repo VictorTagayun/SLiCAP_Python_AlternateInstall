@@ -49,19 +49,23 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 3. After download, right click the exe file and choose unzip.
 
 
-### Step 5 - Instal SliCAP
+### Step 5 - Instal SliCAP and its *dependencies*   
 
 1. Before you install **SliCAP**, download **_in_place_** module first
 2. Go to https://raw.githubusercontent.com/jwodder/inplace/master/src/in_place.py , right click the "In-place file processing" and choose "Save as". Save the file inside SLiCAP_python folder where **"setup.py"** is located, it should be inside "SLiCAP_python". Make sure **"setup.py"** and **"in_place.py"** are in the same folder. Make sure the file is not **"in_place.py.txt"**, if so, just rename to **"in_place.py"**.
-3. In your PC, go to where the Python portable is located **"..\Winpython64-3.9.2.0cod\WPy64-3920"**. Run **"WinPython Command Prompt.exe"**, a commmand prompt will show.
+3. In your PC, go to where the Python portable is located **"..\Winpython64-3.10.5.0\WPy64-31050\"**. Run **"WinPython Command Prompt.exe"**, a commmand prompt will show.
 4. In the command prompt, go to the folder where "SLiCAP_python" is located, you may need to issue a comand **"cd (directory where SLiCAP_python is located)"** to change to that directory.
-5. Run this command  
+5. Install dependencies in **"requirements.txt"**, run this command   
+	```
+	pip install -r requirements.txt  
+	```
+5. Set-up and install **SliCAP**, run this command  
 
 	```
 	python setup.py install --user  
 	```
 	
-6. When asked for the location of **Maxima CAS** bat file, type _"C:\maxima-5.44.0\bin\maxima.bat"_.
+6. When asked for the location of **Maxima CAS** bat file, type _"C:\maxima-5.46.0\bin\maxima.bat"_.
 7. It should find LTSpice after, just press enter to accept the default answer.
 8. It will ask you for the location of SliCAP install folder, you may press enter for the default location.
 9. By this time, SLiCAP should be already installed in **"C:\Users\ (user name)\SLiCAP"**.
@@ -70,7 +74,7 @@ SLiCAP can be installed by running 'python setup.py install' or 'python setup.py
 
 ### Step 6 - Run Examples
 
-1. In your PC, go to where the Python is located, **"..\Winpython64-3.9.2.0cod\WPy64-3920"**.
+1. In your PC, go to where the Python is located, **"..\Winpython64-3.10.5.0\WPy64-31050"**.
 2. Run **"Spyder.exe"**.
 3. Locate where the examples are **"C:\Users\ (username)\SLiCAP\examples"**.
 4. Run and display the plot
